@@ -1,16 +1,13 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: STEM Opportunity in Aviation for Youth
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Getting Indiana Teenagers Involved in Aviation
+subheading: Educational Opportunity Outside of the School
 mainpitch:
-  title: Why Kaldi
+  title: STAY Indiana
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    STAY Indiana is an effort to get younger persons involved in aviation in the Michiana area. It is an hands-on opportunity to build an aircraft, learn the physics of flight and work towards a pilots license. Our first cohort will be working towards building a RANS S-21 Outbound
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,

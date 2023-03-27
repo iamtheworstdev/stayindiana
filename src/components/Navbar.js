@@ -59,7 +59,7 @@ const Navbar = () => {
             </Link>
             </li>
           <li className="navbar-end has-text-centered">
-            <a
+            {/* <a
               className="navbar-item"
               href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
               target="_blank"
@@ -68,7 +68,7 @@ const Navbar = () => {
               <span className="icon">
                 <img src={github} alt="Github" />
               </span>
-            </a>
+            </a> */}
           </li>
         </ul>
       </div>
